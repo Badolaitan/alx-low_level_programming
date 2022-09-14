@@ -3,6 +3,8 @@
 /**
  * _abs -> return absolute value of a number
  * @n: parameter
+ * Description: '_abs code'
+ *
  * Return; absolute value of a number
  */
 int _abs(int n)
