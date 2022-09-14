@@ -1,7 +1,7 @@
-#include "main.h"
+#include "main,h"
 
 /**
- * main -prints putchar
+ * main - prints putchar
  * Return: Always 0
  */
 int main(void)
@@ -17,4 +17,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-}	
+}
