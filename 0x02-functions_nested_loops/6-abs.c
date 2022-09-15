@@ -7,7 +7,7 @@
  *
  * Return; absolute value of a number
  */
-void _abs(int n)
+int_abs(int n)
 {
 	if (n < 0)
 		n = -n;
