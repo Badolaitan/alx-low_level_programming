@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * _abs -> return absolute value of a number
- * @n: parameter
- * Description: '_abs code'
+ * _abs - function that computes the absolute
+ * value of an integar
  *
- * Return; absolute value of a number
+ * @n: takes in integar type input function
+ *
+ * Return: Aways 0 (success)
  */
 int_abs(int n)
 {
